@@ -52,11 +52,21 @@
 
 ## 3. ERD 설계
 
+<img width="639" alt="스크린샷 2022-08-09 오후 4 27 57" src="https://user-images.githubusercontent.com/84092014/183590368-612bee33-4c73-4739-a265-0365dc22a75c.png">
+
+ <img width="378" alt="스크린샷 2022-08-09 오후 4 28 09" src="https://user-images.githubusercontent.com/84092014/183590427-832e23ce-0ac3-4670-82e3-ca471412a0e2.png">
+
+
+
+<br/>
 <br/>
 
 ## 4. 핵심 기능
 이 서비스의 핵심 기능은 구인자와 구직자의 결제입니다. <br/>
 현재는 결제를 경험해보기 위하여 포인트 형태로 구현해두었습니다. <br/>
+ 
+ <img width="876" alt="스크린샷 2022-08-09 오후 4 29 45" src="https://user-images.githubusercontent.com/84092014/183590586-6d6c92e6-a598-46a9-a292-5ba53f361338.png">
+
 
 <br/>
 
@@ -68,6 +78,14 @@
 <details><summary>고객 피드백 반영</summary>
 
 [고객 피드백 확인](https://hungry-snipe-f2e.notion.site/0790cc60a2794a0db2f1015ca6d2cf41) 참고
-<br/>
+
+1. http 요청에 대한 처리 <br/>
+2. 회원가입 시 이메일 검증 추가 
+3. 각 도메인의 자료형이 달라 생기는 문제 해결 
+4. XSS 공격에 대한 대처 
+5. 게시글 작성 시간과 현재 시간의 불일치 해결
+6. 사진 크기에 따른 업로드 에러 해결
+7. 메세지큐 무한 롤백으로 인한 서버 마비 현상 해결
+
 
 </details>
