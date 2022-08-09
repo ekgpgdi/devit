@@ -42,6 +42,7 @@
 * JWT
 * Spring Cloud Eureka
 * RabbitMQ
+* Swagger
 
 <b>```Front-end```<b/>
 * HTML
