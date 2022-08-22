@@ -7,8 +7,9 @@
 ## 0. 총 코드 
 담당 개발자 : 이다혜 <br/>
 > 유레카 서버 : https://github.com/ekgpgdi/devit-eureka-server <br/>
-> 게이트웨이 : gateway : https://github.com/ekgpgdi/devit-gateway <br/>
-> 인증 서비스 : gateway : https://github.com/ekgpgdi/devit-certification-service <br/> 
+> 게이트웨이 : https://github.com/ekgpgdi/devit-gateway <br/>
+> 인증 서비스 : https://github.com/ekgpgdi/devit-certification-service <br/> 
+> 결제 서비스 : https://github.com/ekgpgdi/devit-payment <br/>
 
 
 담당 개발자 : 김지호 <br/>
