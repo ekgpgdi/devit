@@ -79,7 +79,7 @@
 ## 6. 핵심 트러블 슈팅
 <details><summary>고객 피드백 반영</summary>
 
-[고객 피드백 확인](https://hungry-snipe-f2e.notion.site/0790cc60a2794a0db2f1015ca6d2cf41) 참고
+[고객 피드백 확인](https://ddori-lee.tistory.com/entry/%EA%B3%A0%EA%B0%9D-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%98%EC%98%81?category=1019915) 참고
 
 1. http 요청에 대한 처리 <br/>
 2. 회원가입 시 이메일 검증 추가 
