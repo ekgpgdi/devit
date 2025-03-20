@@ -74,14 +74,7 @@
 
 <br/>
 
-## 5. 아키텍처도
-<img width="699" alt="스크린샷 2022-08-22 오후 9 10 27" src="https://user-images.githubusercontent.com/84092014/186058191-a32c6744-0af4-47c0-8c8d-c67b00d6227d.png">
-<img width="1000" alt="스크린샷 2022-08-22 오후 9 10 35" src="https://user-images.githubusercontent.com/84092014/186058188-1d5e1188-0777-47a2-9fe9-1c818fce11b4.png">
-
-
-<br/>
-
-## 6. 핵심 트러블 슈팅
+## 5. 핵심 트러블 슈팅
 <details><summary>1. 고객 피드백 반영</summary>
 
 [고객 피드백 확인](https://ddori-lee.tistory.com/entry/%EA%B3%A0%EA%B0%9D-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%98%EC%98%81?category=1019915) 참고
